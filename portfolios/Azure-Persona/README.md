@@ -1,40 +1,74 @@
-# Azure Persona - Portfolio Theme Readme
+# Azure Persona Portfolio
 
-## Introduction
-Azure Persona is a beautifully crafted portfolio theme designed to showcase your work with elegance and sophistication. It combines classic design elements with modern aesthetics to create a visually captivating experience. This readme file provides an overview of the theme's features, installation instructions, and customization options.
+![Azure Persona](./images/screenshot.png)
 
-## Key Features
-- Timeless Classic Design: Azure Persona embodies the essence of classic design, offering a clean and sophisticated layout that exudes professionalism.
-- Captivating Blue Aesthetics: The theme revolves around the color blue, representing trust, reliability, and creativity, adding vibrancy and freshness to your portfolio.
-- Responsive and Mobile-Friendly: Azure Persona is built to be fully responsive, ensuring your portfolio looks stunning on any device, including desktops, tablets, and smartphones.
-- High-Fidelity Presentation: The theme emphasizes high fidelity, showcasing your work in its full glory and leaving a lasting impression on your visitors.
-- User-Friendly Interface: Azure Persona features an intuitive and user-friendly interface, providing effortless navigation for visitors and enhancing the browsing experience.
-- Customization Options: Tailor Azure Persona to match your personal style and branding. Customize features such as the logo, color schemes, and typography to create a unique visual identity.
+Azure Persona is a responsive portfolio theme designed with a beautiful blue color scheme. This theme is perfect for showcasing your work and creating an impressive online presence. The theme incorporates a visually appealing and modern user interface to captivate your visitors.
+
+## Preview
+
+You can preview the theme by accessing the following link:
+
+[#1 Portfolio | Azure Persona](https://gautamankoji.github.io/static-web-pages/portfolios/Azure-Persona/index.html)
+
+Click on the link to experience the theme in action.
+
+## Description
+
+Azure Persona is a professionally designed portfolio theme that focuses on simplicity, elegance, and user experience. With its blue color palette and unsymmetrical grid pattern, it provides a unique and captivating visual experience to showcase your portfolio.
+
+## Features
+
+- **Responsive Design:** The theme is fully responsive, ensuring that your portfolio looks great on all devices, including desktops, tablets, and mobile phones.
+
+- **Blue Color Scheme:** Azure Persona features a stylish blue color scheme that adds a touch of sophistication and professionalism to your portfolio.
+
+- **Unsymmetrical Grid Pattern:** The unsymmetrical grid pattern enhances the visual appeal of the theme, creating an interesting and dynamic layout for your portfolio.
+
+- **Easy Customization:** The theme is highly customizable, allowing you to personalize it according to your preferences. You can easily change colors, fonts, and other elements to match your branding.
+
+- **Portfolio Showcase:** Azure Persona provides a dedicated section to showcase your portfolio items, allowing you to highlight your best work and attract potential clients or employers.
+
+- **Contact Form:** The theme includes a contact form that enables visitors to get in touch with you directly, making it easy for potential clients or employers to reach out.
+
+- **Social Media Integration:** Azure Persona seamlessly integrates with various social media platforms, allowing you to display your social media profiles and connect with your audience.
+
+- **Cross-Browser Compatibility:** The theme is compatible with all modern web browsers, ensuring that your portfolio looks consistent and functions flawlessly across different platforms.
 
 ## Installation
-To install Azure Persona on your website, follow these steps:
 
-1. Download the Azure Persona theme files from the official website or a trusted theme marketplace.
-2. Extract the downloaded files to your local computer.
-3. Connect to your website server via FTP or access the WordPress Dashboard.
-4. Navigate to the "Appearance" section and click on "Themes."
-5. Click on the "Upload Theme" button and select the extracted theme files.
-6. Once the theme is uploaded, click on the "Activate" button to apply Azure Persona to your website.
-7. Customize the theme settings and add your portfolio content to create a personalized showcase.
+To use the Azure Persona theme, follow these steps:
 
-## Customization
-Azure Persona provides various customization options to make your portfolio truly unique. Here are some ways to personalize the theme:
+1. Download the theme files from the GitHub repository or any other source.
 
-- Logo: Replace the default logo with your own brand logo to create a professional and cohesive identity.
-- Color Schemes: Modify the color palette of the theme to align with your personal style or brand guidelines.
-- Typography: Choose from a wide range of fonts and adjust font sizes to enhance readability and match your preferred aesthetic.
-- Layout: Customize the layout of your portfolio pages, including the arrangement of sections and the number of columns for project displays.
+2. Extract the downloaded files to your desired location on your web server or local machine.
 
-## Support and Documentation
-If you encounter any issues or have questions regarding Azure Persona, please refer to the documentation included with the theme files. The documentation provides detailed instructions on installation, customization, and troubleshooting. If you require further assistance, you can reach out to our support team via the official website or the theme marketplace where you downloaded Azure Persona.
+3. Customize the theme according to your preferences. You can modify the colors, fonts, images, and other elements to align with your branding.
+
+4. Replace the sample content and images with your own portfolio items and information.
+
+5. Test the theme thoroughly to ensure that all features and functionalities are working as expected.
+
+6. Deploy the theme to your production environment or web hosting provider to make it accessible to the public.
+
+## Credits
+
+The Azure Persona theme incorporates the following resources:
+
+- [Boxicons](https://boxicons.com/)
+- [Unsplash](https://unsplash.com)
+- [Bootstrap](https://getbootstrap.com)
+- [Font Awesome](https://fontawesome.com)
+
+Please make sure to review and comply with the licensing terms and requirements of these resources when using the Azure Persona theme.
+
+## Support
+
+If you encounter any issues or have any questions or suggestions regarding the Azure Persona theme, please feel free to contact our support team at [support@example.com](gautamankoji@gmail.com.com). We are here to assist you and ensure that you have a smooth experience with the theme.
 
 ## License
-Azure Persona is released under the [Open Source License](https://opensource.org/licenses), allowing you to use, modify, and distribute the theme according to the terms of the license agreement.
 
-## Conclusion
-Azure Persona offers a blend of classic design and modern aesthetics, providing a visually captivating platform to showcase your work. With its responsive layout, high-fidelity presentation, and customization options, this theme will enhance your portfolio and engage your audience. Experience the elegance of Azure Persona and let your work shine like never before!
+The Azure Persona theme is released under the [MIT License](LICENSE). You are free to modify and use the theme for personal and commercial projects. However, please note that you are responsible for ensuring compliance with any third-party resources or dependencies used in conjunction with the theme.
+
+## Acknowledgements
+
+We would like to express our gratitude to the open-source community for their contributions and the resources that make the Azure Persona theme possible. Thank you to all the developers, designers, and individuals who have helped create and enhance the tools and frameworks that empower us to build beautiful websites and portfolios.
