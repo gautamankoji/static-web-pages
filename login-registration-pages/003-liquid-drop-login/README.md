@@ -4,7 +4,7 @@ This is the documentation for the login page, which includes details about its f
 
 ## Preview Link
 
-You can preview the login page by visiting the following link: [Login Page Preview](https://gautamankoji.github.io/static-web-pages/login-registration-pages/003-liquid-drop-login/index.html)
+You can preview the login page by visiting the following link: [Login Page Preview](https://gautamankoji.github.io/static-web-pages/login-registration-pages/003-liquid-drop-login/)
 
 ## Features
 
