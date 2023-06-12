@@ -8,7 +8,7 @@ Azure Persona is a responsive portfolio theme designed with a beautiful blue col
 
 You can preview the theme by accessing the following link:
 
-[#1 Portfolio | Azure Persona](https://gautamankoji.github.io/static-web-pages/portfolios/azure-persona/index.html)
+[#1 Portfolio | Azure Persona](https://gautamankoji.github.io/static-web-pages/portfolios/Azure-Persona/index.html)
 
 Click on the link to experience the theme in action.
 
